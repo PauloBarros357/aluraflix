@@ -1,2 +1,1 @@
-# aluraflix
-estou aprendendo a programar em html então desenvolvi este site durante o meu curso no alura
+a opção ´´incorporar`` do youtube não está funcionando para mim portanto usei os vídeos de exemplo do alura
